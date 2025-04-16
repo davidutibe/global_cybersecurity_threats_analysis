@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3d143227-a967-4e55-ac48-bda4fd0759a8)# Project: Finance Dashboard (Management)
+# Project: Finance Dashboard (Management)
 
 ## Table of Content
 
