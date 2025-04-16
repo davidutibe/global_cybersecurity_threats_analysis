@@ -236,8 +236,6 @@ This may reflect inefficiencies in post-detection response or limitations in AI 
 - **Weak Passwords**  
   Easily guessable or reused credentials that increase risk of unauthorized access.
 
-- **COGS (Cost of Goods Sold):** 
-
 
 <br/>
    
