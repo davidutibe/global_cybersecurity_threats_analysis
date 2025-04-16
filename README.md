@@ -42,7 +42,6 @@ The project aims to answer the following research questions:
 3. Are there any seasonal or annual trends in the types of attacks being launched?
 4. How do attack sources differ by country?
 5. Does increased use of AI-based detection correlate with quicker response and containment?
-6. Which defense strategies are underutilized despite showing potential
 
 ## About the Dataset
 The dataset was downloaded from Kaggle. It contains 3000 rows and 10 columns.
@@ -166,9 +165,10 @@ Total Financial Losses = sum('Global_Cybersecurity_Threats_2015-2024'[Financial 
 
 
 ## Data Visualizations
-To visualize the data, I used the following native power BI visuals: Matrix, Cards, Doughnut chart, Slicer, Sparkline, and conditional formatting tools. See dashboard snippet below:
+To visualize the data, I used the following native power BI visuals: Matrix, Cards, Doughnut chart, Slicer, Sparkline, and conditional formatting tools. 
+I chose a dark dark and red theme for the design to convey risk, crime and urgency. See dashboard snippet below:
 
-![Dashboard snippet](https://github.com/davidutibe/finance_management_dashboard/blob/main/Finance%20Dashboard%20(Management).JPG?raw=true)
+![Dashboard snippet](https://github.com/davidutibe/global_cybersecurity_threats_analysis/blob/main/Overview.JPG)
 
 ## Insights from the Data Analysis
 1. **Which cybersecurity vulnerabilities are most frequently exploited across industries, and why?**  
