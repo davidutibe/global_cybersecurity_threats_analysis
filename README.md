@@ -1,4 +1,4 @@
-# Project: Finance Dashboard (Management)
+# Project: Global Cybersecurity Threat Analysis
 
 ## Table of Content
 
